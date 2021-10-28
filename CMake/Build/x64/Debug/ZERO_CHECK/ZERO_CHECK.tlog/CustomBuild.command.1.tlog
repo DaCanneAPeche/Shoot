@@ -1,0 +1,10 @@
+^C:\USERS\STANI\DESKTOP\DEV\C++\SHOOT\CMAKE\BUILD\CMAKEFILES\4D4A163452BA3FF0D94A8B96C2CC7F21\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/stani/Desktop/dev/c++/Shoot/CMake -BC:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/Shoot.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

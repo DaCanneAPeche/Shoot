@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\core.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\models.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\shapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\textures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\raudio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\raylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\rlgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\raymath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\raudio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\input.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\vulkan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_thread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\wgl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\egl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\stani\Desktop\dev\c++\Shoot\CMake\Build\_deps\raylib-build\raylib\external\glfw\src\glfw.dir\$(Configuration)\osmesa_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C05B32E8-873A-3087-BF31-949A655C75F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{38A370E9-03DF-3962-A0B3-B72AA644F536}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5208893E-5AF5-33D9-9FD1-292E96ED68AA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

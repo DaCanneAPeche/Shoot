@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.21/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.21/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.21/Templates/CPackConfig.cmake.in
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/CompileDefinitions.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/GlfwImport.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/InstallConfigurations.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/JoinPaths.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/LibraryConfigurations.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/LibraryPathToLinkerFlags.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/PackConfigurations.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/PopulateConfigVariablesLocally.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/cmake/raylib-config-version.cmake
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/raylib.pc.in
+C:/Users/stani/Desktop/dev/c++/Shoot/CMake/Build/_deps/raylib-src/src/CMakeLists.txt
